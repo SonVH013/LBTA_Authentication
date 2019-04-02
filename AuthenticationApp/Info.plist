@@ -46,12 +46,12 @@
         <dict>
             <key>CFBundleURLSchemes</key>
             <array>
-                <string>fb2288518951470177</string>
+                <string>fb283778779214248</string>
             </array>
         </dict>
     </array>
     <key>FacebookAppID</key>
-    <string>2288518951470177</string>
+    <string>283778779214248</string>
     <key>FacebookDisplayName</key>
     <string>authenticateApp</string>
     <key>LSApplicationQueriesSchemes</key>
